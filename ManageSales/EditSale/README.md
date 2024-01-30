@@ -10,9 +10,9 @@ This is used for editing an existing record in the sales list.
 The user shall select which among the entries in the sales list is desired to be edited or modified.
 
 ### Process
-The user shall select which among the lists is to be edited.
-The user shall alter information about the sales entry.
-The user shall press the “Save” button.
+* The user shall select which among the lists is to be edited.
+* The user shall alter information about the sales entry.
+* The user shall press the “Save” button.
 
 ### Output
 The system shall update the information according to the changes.
