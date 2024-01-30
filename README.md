@@ -15,8 +15,6 @@ This project is a web-based poultry farm inventory and sales management system d
 ## Site Map
 see documentation [here](page1/README.md)
 ## Homepage
-* [Feature 1](page1/README.md)
-* [Feature 2](page1/README.md)
-* [Feature 3](page1/README.md)
+* [Features](page1/README.md)
 
 
