@@ -6,3 +6,6 @@ Listed below are the subfeatures of the sales management
 * [Edit Sale](EditSale/README.md)
 * [Delete Sale](DeleteSale/README.md)
 * [Add Invoice](AddInvoice/README.md)
+* [Edit Invoice](EditInvoice/README.md)
+* [Delete Invoice](DeleteInvoice/deleteinvoice.md)
+
