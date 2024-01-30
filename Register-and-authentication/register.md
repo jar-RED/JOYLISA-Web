@@ -1,2 +1,2 @@
-![register](./Assets/Register.png)
-
+![register](../Assets/Register.png)
+![register](../Assets/login.png)
