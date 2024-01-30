@@ -11,7 +11,7 @@ This project aims to develop a web-based inventory and sales management system f
 ### Target PP.010.001
 
 ## Revisions
-[Revision](Revision/README.md)
+* [Revision](Revision/README.md)
 ## Site Map
 see documentation [here](page1/README.md)
 ## Homepage
