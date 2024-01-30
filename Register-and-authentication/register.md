@@ -1,2 +1,2 @@
-![alt text](poultry-palace/Assets/Register.png)
+![register](./Assets/Register.png)
 
