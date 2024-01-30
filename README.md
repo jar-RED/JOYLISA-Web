@@ -16,5 +16,6 @@ This project aims to develop a web-based inventory and sales management system f
 see documentation [here](page1/README.md)
 ## Homepage
 * [Manage Sales](ManageSales/README.md)
+* [Register and Authentication](Register-and-authentication/register.md)
 
 
