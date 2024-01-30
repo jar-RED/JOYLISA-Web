@@ -10,9 +10,9 @@ This is used for deleting an existing record inventory list.
 The user shall select which among the entries in the sales list is desired to be removed.
 
 ### Process
-The user shall select which entry is to be deleted.
-The user shall press the “Trash” icon.
-The user shall press the “Confirm” button.
+* The user shall select which entry is to be deleted.
+* The user shall press the “Trash” icon.
+* The user shall press the “Confirm” button.
 
 ### Output
 The system has to remove the item and it will be deleted from the list.
