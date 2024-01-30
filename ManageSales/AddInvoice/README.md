@@ -7,12 +7,12 @@ This is used for adding the invoices of the customers with debts.
 ### Input
 The user shall enter all the relevant invoice details.
 ### Process
-The user shall click the “+” button.
-The user shall enter the customer's name.
-The user shall enter the invoice number.
-The user shall enter the total amount of the sale.
-The user shall enter the due date of the invoice.
-The user shall press the save button.
+* The user shall click the “+” button.
+* The user shall enter the customer's name.
+* The user shall enter the invoice number.
+* The user shall enter the total amount of the sale.
+* The user shall enter the due date of the invoice.
+* The user shall press the save button.
 ### Output
 The system shall add the item to the order list and be displayed.
 
