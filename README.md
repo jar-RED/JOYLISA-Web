@@ -11,17 +11,12 @@ This project is a web-based poultry farm inventory and sales management system d
 ### Target PP.001.001
 
 ## Revisions
-see documentation [here](Revision/README.md)
+[Revision](Revision/README.md)
 ## Site Map
 see documentation [here](page1/README.md)
 ## Homepage
-see documentation [here](page1/README.md)
-## Feature 1
---
-## Feature 2
---
-## Feature 3
---
-
+* [Feature 1](page1/README.md)
+* [Feature 2](page1/README.md)
+* [Feature 3](page1/README.md)
 
 
