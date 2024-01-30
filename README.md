@@ -11,3 +11,9 @@ This project is a web-based poultry farm inventory and sales management system d
 | Application Name  | Internal Code Name | Kebab Case | Release Codes |
 | ------------- | ------------- | ------------ | ------------- |
 | JOYLISA Web   | Poultry Palace  | poultry-palace | PP.001.001  |
+
+# My Project
+is really really cool. My Project has a subdir named myLib, see below.
+
+## myLib docs
+see documentation [here](page1/README.md)
