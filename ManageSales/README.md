@@ -1,4 +1,3 @@
 # Manage Sales
 
-[Add Sale]
-[Add Invoice]
+see documentation [here](ManageSales/AddSale/README.md)
