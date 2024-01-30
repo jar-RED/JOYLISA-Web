@@ -7,3 +7,7 @@ This project is a web-based poultry farm inventory and sales management system d
 * Notifications: The system sends notifications for critical inventory levels, helping the farm avoid running out of essential supplies.
 * Sales Invoicing: The system generates invoices for sales to customers, simplifying the billing process and ensuring accuracy.
 * Analytics: The system provides forecasts and graphs about sales and inventory, enabling the farm to make informed decisions based on data analysis.
+# 
+| Application Name  | Internal Code Name | Kebab Case | Release Codes |
+| ------------- | ------------- | ------------ | ------------- |
+| JOYLISA Web   | Poultry Palace  | poultry-palace | PP.001.001  |
