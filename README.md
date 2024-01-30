@@ -8,7 +8,7 @@ This project aims to develop a web-based inventory and sales management system f
 * Sales Invoicing: The system generates invoices for sales to customers, simplifying the billing process and ensuring accuracy.
 * Analytics: The system provides forecasts and graphs about sales and inventory, enabling the farm to make informed decisions based on data analysis.
 
-### Target PP.001.001
+### Target PP.010.001
 
 ## Revisions
 [Revision](Revision/README.md)
