@@ -1,5 +1,7 @@
 # Delete Stock Orders Inventory
 
+[Site Map](../../README.md)
+
 ![image](https://github.com/jar-RED/poultry-palace/assets/126373280/07ffcfb0-f9e1-45a2-a72d-94c74ca6b96a)
 
 
