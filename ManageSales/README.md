@@ -1,4 +1,5 @@
 # Manage Sales
+[Site Map](../README.md)
 
 Listed below are the subfeatures of the sales management
 
