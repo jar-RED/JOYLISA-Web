@@ -1,6 +1,7 @@
 ## Manage Inventory
 
 [Site Map](../README.md)
+
 Listed below are the subfeatures of Manage Inventory.
 
 * [Add Inventory](AddInventory/README.md)
