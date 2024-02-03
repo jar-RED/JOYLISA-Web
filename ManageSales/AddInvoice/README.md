@@ -1,5 +1,7 @@
 # Add Invoice
 
+[Site Map](../../README.md)
+
 ![image](https://github.com/jar-RED/poultry-palace/assets/126373280/93b55ce4-9241-45e8-9fd4-9d9b0140eb01)
 
 ## Add Invoice popup
