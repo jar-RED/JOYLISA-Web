@@ -20,6 +20,7 @@ This project aims to develop a web-based inventory and sales management system f
 * [Manage Sales](ManageSales/README.md)
 * [Manage Inventory](ManageInventory/README.md)
 * [Notifications](Notifications/README.md)
+* [Generate Reports](GenerateReports/README.md)
 
 
 
