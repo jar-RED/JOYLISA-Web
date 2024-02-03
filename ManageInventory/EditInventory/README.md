@@ -1,5 +1,7 @@
 # Edit Inventory
 
+[Site Map](../../README.md)
+
 ![image](https://github.com/jar-RED/poultry-palace/assets/126373280/a1d238c2-3c81-4e8b-a8fe-343f9d065b32)
 
 This is used for editing an existing record inventory list.
