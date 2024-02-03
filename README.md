@@ -14,7 +14,7 @@ This project aims to develop a web-based inventory and sales management system f
 ## Revisions
 [Revisions](Revision/README.md)
 ## Site Map
-[Site Map](SiteMap/README.md)
+[Site Map](README.md)
 ## Homepage
 * [Register and Authentication](Register-and-authentication/register.md)
 * [Manage Sales](ManageSales/README.md)
