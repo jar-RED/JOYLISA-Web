@@ -9,15 +9,16 @@ This project aims to develop a web-based inventory and sales management system f
 
 * Analytics: The system provides forecasts and graphs about sales and inventory, enabling the farm to make informed decisions based on data analysis.
 
-### Target PP.010.001
+#### Target PP.010.001
 
 ## Revisions
-* [Revision](Revision/README.md)
+* [Revisions](Revision/README.md)
 ## Site Map
-see documentation [here](page1/README.md)
+[Site Map](SiteMap/README.md)
 ## Homepage
 * [Register and Authentication](Register-and-authentication/register.md)
 * [Manage Sales](ManageSales/README.md)
+* [Manage Inventory](ManageInventory/README.md)
 
 
 
