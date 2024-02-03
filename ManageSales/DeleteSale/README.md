@@ -1,5 +1,7 @@
 # Delete Sale
 
+[Site Map](../../README.md)
+
 ![image](https://github.com/jar-RED/poultry-palace/assets/126373280/75422995-3473-4539-bed8-00285cfbdb71)
 
 
