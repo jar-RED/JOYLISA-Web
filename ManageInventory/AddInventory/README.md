@@ -1,4 +1,6 @@
 # Add Inventory
+
+[Site Map](../../README.md)
 ![image](https://github.com/jar-RED/poultry-palace/assets/126373280/1b7d2202-624e-4532-a1c3-52520a1476d3)
 
 
