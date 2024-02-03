@@ -1,7 +1,8 @@
 # View Reports
 [Site Map](../README.md)
 
-![image](https://github.com/jar-RED/poultry-palace/assets/126373280/df33c60c-0c39-446f-a052-36577ee94797)
+![image](https://github.com/jar-RED/poultry-palace/assets/126373280/9b9ec8f1-07b0-41a7-87a8-ffc84bfe4375)
+
 
 
 This is used for viewing the overall reports of activities and operations of the poultry farm.
