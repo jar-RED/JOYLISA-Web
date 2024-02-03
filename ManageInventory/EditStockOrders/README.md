@@ -1,5 +1,7 @@
 # Edit Stock Orders Inventory
 
+[Site Map](../../README.md)
+
 ![image](https://github.com/jar-RED/poultry-palace/assets/126373280/9384a4d4-dd43-4403-a509-e921e920d11b)
 
 This is used for editing an existing record in the stock order inventory list.
