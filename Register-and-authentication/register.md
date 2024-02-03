@@ -1,5 +1,5 @@
 # Register
-[Site Map](poultry-palace/README.md)
+[Site Map](.../README.md)
 
 ![image](https://github.com/jar-RED/poultry-palace/assets/126373280/ae3dce62-f2eb-474e-8de2-8dfb26b16ac8)
 
