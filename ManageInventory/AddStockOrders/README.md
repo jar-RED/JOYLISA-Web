@@ -1,4 +1,6 @@
 # Add Stock Orders
+
+[Site Map](../../README.md)
 ![image](https://github.com/jar-RED/poultry-palace/assets/126373280/3d5cf10a-2d92-487a-9166-92a3a1961ff5)
 
 
